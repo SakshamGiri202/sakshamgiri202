@@ -1,4 +1,4 @@
-V<h2 align="center">Hi 👋! I'm Saksham Giri <br>A full stack developer passionate about building cool tools for myself and the community</h2>
+<h2 align="center">Hi 👋! I'm Saksham Giri <br>A full stack developer passionate about building cool tools for myself and the community</h2>
 
 ###
 
@@ -9,7 +9,7 @@ V<h2 align="center">Hi 👋! I'm Saksham Giri <br>A full stack developer passion
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3g4MHlhaHFjejdoZW81aWRwajhqNGZ5cTQycDZrdnc4NXRlbDM1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XIFtEmJkAiR32/giphy.gif"  />
+<img  align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3g4MHlhaHFjejdoZW81aWRwajhqNGZ5cTQycDZrdnc4NXRlbDM1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XIFtEmJkAiR32/giphy.gif"  />
 
 ###
 
@@ -76,12 +76,8 @@ V<h2 align="center">Hi 👋! I'm Saksham Giri <br>A full stack developer passion
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sakshamgiri202/sakshamgiri202/output/snake.svg" alt="Snake animation" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![Snake animation](https://github.com/sakshamgiri202/sakshamgiri202/blob/output/github-snake.svg)
+
 
 ###
